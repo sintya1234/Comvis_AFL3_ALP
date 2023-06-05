@@ -1,0 +1,4 @@
+Link Dataset
+
+https://www.kaggle.com/datasets/gunawan26/labelled-indonesian-car-and-plate-number
+https://www.kaggle.com/datasets/imamdigmi/indonesian-plate-number
